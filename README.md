@@ -1,4 +1,4 @@
-# 📚 Book Management System
+# 📚 library Management System
 
 ## 📖 Project Description
 
@@ -41,7 +41,7 @@ This project provides a user-friendly graphical interface that helps users manag
 ## 📷 Screenshots
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ---
 
@@ -49,7 +49,7 @@ This project provides a user-friendly graphical interface that helps users manag
 
 1. Download or clone this repository.
 2. Open the project in Visual Studio Code.
-3. Run `book_management.py`.
+3. Run `libarary_management.py`.
 4. Start managing book records.
 
 ---
@@ -57,10 +57,10 @@ This project provides a user-friendly graphical interface that helps users manag
 ## 📁 Project Structure
 
 ```text
-Book-Management-System/
+library-Management-System/
 │
-├── book_management.py
-├── books.db
+├── library.py
+├── library.db
 ├── README.md
 └── home.png
 ```
